@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kamil\\source\\repos\\kamilw01\\pierwsza\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\kamil\\source\\repos\\kamilw01\\pierwsza\\zaj1\\zaj1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kamil\\source\\repos\\kamilw01\\pierwsza\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\kamil\\source\\repos\\kamilw01\\pierwsza\\zaj1\\zaj1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamil\\source\\repos\\kamilw01\\pierwsza\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\kamil\\source\\repos\\kamilw01\\pierwsza\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\kamil\\source\\repos\\kamilw01\\pierwsza\\zaj1\\zaj1.csproj",
+        "projectName": "zaj1",
+        "projectPath": "C:\\Users\\kamil\\source\\repos\\kamilw01\\pierwsza\\zaj1\\zaj1.csproj",
         "packagesPath": "C:\\Users\\kamil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamil\\source\\repos\\kamilw01\\pierwsza\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\kamil\\source\\repos\\kamilw01\\pierwsza\\zaj1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kamil\\AppData\\Roaming\\NuGet\\NuGet.Config",
